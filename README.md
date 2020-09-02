@@ -1,4 +1,4 @@
-# C# Assignment CRUD by T-Ralph
+# C# CRUD by T-Ralph
 
 ## Requirements (See Rubric in Doc for Details)
 - Allow the user to input data of your choice (names, numbers, etc). 
